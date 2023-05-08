@@ -2,6 +2,7 @@ defmodule Loop0To9 do
   @moduledoc """
     loop_0_to_9
     Elixir
+    recursive
   """
 
   @doc """
