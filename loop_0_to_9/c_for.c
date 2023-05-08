@@ -3,15 +3,13 @@
 /**
  * loop_0_to_9
  * C
- * while
+ * for
  **/
 int main()
 {
-    int i = 0;
-    while (i < 10)
+    for (int i = 0; i < 10; i++)
     {
         printf("i=%d\n", i);
-        i++;
     }
 
     return 0;

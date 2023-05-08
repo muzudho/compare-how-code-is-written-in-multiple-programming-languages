@@ -1,6 +1,6 @@
 defmodule Loop0To9 do
   @moduledoc """
-    Loop 0 to 9
+    loop_0_to_9
     Elixir
   """
 
